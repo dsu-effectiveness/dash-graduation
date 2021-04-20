@@ -90,15 +90,5 @@ This SQL query (Postgres) pulls all relevant information needed to build the exe
 </tr>Gender M/F</td>
 </tr>
 </tr>
-<tr class="odd">
-<td>gender_code</td>
-<td>student
-</tr>Gender M/F</td>
-</tr>
-</tr>
-<tr class="even">
-<td>race_ethn</td>
-<td>Ethnicity is pulled using a function: dsc.f_get_race_ethn.</td>
-</tr>
 </tbody>
 </table>
